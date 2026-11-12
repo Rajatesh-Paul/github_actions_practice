@@ -1,0 +1,13 @@
+#Workflow
+name: Hello
+on: 
+  workflow_dispatch:
+#Jobs
+jobs:
+  say-hello:
+  runs-on: ubuntu-latest
+#Steps
+    steps:
+      -name: Say hello to all...!
+       run: echo "Hello, All!"
+#Actions
