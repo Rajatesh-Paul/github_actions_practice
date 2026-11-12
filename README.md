@@ -1,3 +1,3 @@
-GitHub Actions Practice
-
-All work is stored in '.github/workflows'
+# GitHub Actions Practice
+## Workflows hands-on:
+All work is stored in `.github/workflows`
